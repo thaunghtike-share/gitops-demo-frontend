@@ -2,7 +2,7 @@
 
 An independent static frontend for Docker, Kubernetes, Helm, and ArgoCD labs.
 It has no backend URL, API integration, database, authentication, or external
-dependency.
+dependency
 
 The `main` branch displays `Production`. Change that text to `Development` or
 `UAT` in the corresponding branches when demonstrating environment promotion.
